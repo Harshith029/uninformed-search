@@ -9,7 +9,7 @@ BFS, DFS, and their variants applied to four classical AI search problems.
 
 | Name | Roll Number |
 |---|---|
-| Kamal Kumar Nampally | SE24UCSE110 |
+| Pali Krishna Harshith | SE24UCSE001 |
 
 ---
 
@@ -287,7 +287,7 @@ python main.py
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/enkamal7/uninformed-search.git
+git clone https://github.com/Harshith029/uninformed-search.git
 cd uninformed-search
 ```
 
