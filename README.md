@@ -312,27 +312,6 @@ After selecting a problem, all six strategies run automatically. A formatted com
 
 ---
 
-## Extending the Project
-
-**Add a new problem:**
-```
-1. Create a file in problems/
-2. Inherit from engine.problem.Problem
-3. Implement: initial_state, goal_test, actions, result
-4. Optionally implement goal_state + reverse operators for BDS support
-5. Add it to main.py
-```
-
-**Add a new strategy:**
-```
-1. Add a function to engine/strategies.py
-2. Return (Node | None, Metrics)
-3. Register in the STRATEGIES dict
-4. Add to the _RUNS list in main.py
-```
-
----
-
 ## References
 
 - Russell, S. & Norvig, P. *Artificial Intelligence: A Modern Approach*, 4th Ed. Chapter 3: Solving Problems by Searching.
