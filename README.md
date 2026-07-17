@@ -1,6 +1,6 @@
 # Uninformed Search Strategies — Terminal Implementation
 
-Artificial Intelligence course demonstration. - Individual Assignment
+Artificial Intelligence course demonstration.
 BFS, DFS, and their variants applied to four classical AI search problems.
 
 ---
