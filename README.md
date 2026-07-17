@@ -5,14 +5,6 @@ BFS, DFS, and their variants applied to four classical AI search problems.
 
 ---
 
-## Members
-
-| Name | Roll Number |
-|---|---|
-| Pali Krishna Harshith | SE24UCSE001 |
-
----
-
 ## Concept
 
 ### Uninformed (Blind) Search
